@@ -42,6 +42,7 @@ CREATE TABLE `guestbook` (
 INSERT INTO `guestbook` (`id`, `name`, `email`, `comment`, `datetime`) VALUES
 (1, 'dasdasd', 'sadasd', 'sadasd', '26-02-03 08:51:35'),
 (2, 'Team', 'teamgamemine@gmail.com', 'test comment ', '26-02-03 08:56:30');
+(3, '67050248', '67050248@kmitl.ac.th', 'test comment', '26-02-03 08:57:27');
 
 --
 -- Indexes for dumped tables
